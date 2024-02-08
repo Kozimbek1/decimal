@@ -1,0 +1,120 @@
+
+NBU
+12 300 so'm
+Trastbank
+12 290 so'm
+Agrobank
+12 285 so'm
+O‘zsanoatqurilishbank
+12 285 so'm
+Asia Alliance Bank
+12 280 so'm
+Aloqabank
+12 280 so'm
+Xalq Banki
+12 280 so'm
+Ipak Yo'li Bank
+12 280 so'm
+Hayot Bank
+12 280 so'm
+Ipoteka bank
+12 275 so'm
+Turon bank
+12 275 so'm
+Davr bank
+12 270 so'm
+Uzum Bank
+12 270 so'm
+Hamkorbank
+12 270 so'm
+Universal bank
+12 270 so'm
+Garant bank
+12 270 so'm
+Poytaxt bank
+12 270 so'm
+Asakabank
+12 270 so'm
+Infinbank
+12 265 so'm
+Kapitalbank
+12 260 so'm
+Tenge Bank
+12 260 so'm
+Saderat Bank
+12 260 so'm
+Madad Invest Bank
+12 250 so'm
+Ziraat Bank
+12 250 so'm
+Octobank
+12 250 so'm
+MKBank
+12 250 so'm
+Orient Finans Bank
+12 250 so'm
+Anorbank
+12 250 so'm
+KDB Bank Uzbekiston
+12 245 so'm
+Sotish
+Kapitalbank
+12 335 so'm
+Uzum Bank
+12 335 so'm
+Hayot Bank
+12 350 so'm
+Asia Alliance Bank
+12 350 so'm
+Madad Invest Bank
+12 350 so'm
+Saderat Bank
+12 350 so'm
+Poytaxt bank
+12 350 so'm
+Garant bank
+12 350 so'm
+Octobank
+12 350 so'm
+Anorbank
+12 360 so'm
+Orient Finans Bank
+12 360 so'm
+Aloqabank
+12 360 so'm
+Trastbank
+12 360 so'm
+Ziraat Bank
+12 360 so'm
+Xalq Banki
+12 360 so'm
+Asakabank
+12 360 so'm
+Hamkorbank
+12 360 so'm
+Tenge Bank
+12 360 so'm
+BRB
+12 365 so'm
+O‘zsanoatqurilishbank
+12 365 so'm
+Ipoteka bank
+12 365 so'm
+Turon bank
+12 365 so'm
+KDB Bank Uzbekiston
+12 365 so'm
+Davr bank
+12 365 so'm
+MKBank
+12 365 so'm
+Universal bank
+12 365 so'm
+NBU
+12 365 so'm
+Ipak Yo'li Bank
+12 370 so'm
+Infinbank
+12 375 so'm
+Agrobank
+12 375 so'm

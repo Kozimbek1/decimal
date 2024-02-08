@@ -1,0 +1,102 @@
+[
+  {
+    "ism": "Jennifer",
+    "familiya": "Ramos",
+    "yosh": 89,
+    "kasb": "Newspaper journalist",
+    "manzil": {
+      "shahar": "West Emilyborough",
+      "kocha": "858 Ingram Roads Apt. 980"
+    }
+  },
+  {
+    "ism": "Claudia",
+    "familiya": "Robinson",
+    "yosh": 83,
+    "kasb": "Engineer, materials",
+    "manzil": {
+      "shahar": "West Keithmouth",
+      "kocha": "33234 David Place Suite 743"
+    }
+  },
+  {
+    "ism": "Kevin",
+    "familiya": "Owens",
+    "yosh": 34,
+    "kasb": "Development worker, international aid",
+    "manzil": {
+      "shahar": "Oliverton",
+      "kocha": "6206 Garcia Port Apt. 791"
+    }
+  },
+  {
+    "ism": "Teresa",
+    "familiya": "Burns",
+    "yosh": 85,
+    "kasb": "Engineer, electronics",
+    "manzil": {
+      "shahar": "Bruceport",
+      "kocha": "542 Whitaker Stream Apt. 369"
+    }
+  },
+  {
+    "ism": "Peter",
+    "familiya": "Ingram",
+    "yosh": 21,
+    "kasb": "Advertising art director",
+    "manzil": {
+      "shahar": "East Jeffrey",
+      "kocha": "50394 Holmes Road Suite 706"
+    }
+  },
+  {
+    "ism": "Theresa",
+    "familiya": "Moore",
+    "yosh": 55,
+    "kasb": "Hospital doctor",
+    "manzil": {
+      "shahar": "East Brian",
+      "kocha": "347 Williams Garden Apt. 455"
+    }
+  },
+  {
+    "ism": "Sean",
+    "familiya": "Richardson",
+    "yosh": 8,
+    "kasb": "Software engineer",
+    "manzil": {
+      "shahar": "Heathertown",
+      "kocha": "82777 Tiffany Via Apt. 814"
+    }
+  },
+  {
+    "ism": "Matthew",
+    "familiya": "Aguilar",
+    "yosh": 59,
+    "kasb": "Adult nurse",
+    "manzil": {
+      "shahar": "Hernandezton",
+      "kocha": "90180 David Road"
+    }
+  },
+  {
+    "ism": "Madison",
+    "familiya": "Warren",
+    "yosh": 18,
+    "kasb": "Immigration officer",
+    "manzil": {
+      "shahar": "Port Gary",
+      "kocha": "41779 Wilson Pines"
+    }
+  },
+  {
+    "ism": "Brenda",
+    "familiya": "Banks",
+    "yosh": 8,
+    "kasb": "Corporate treasurer",
+    "manzil": {
+      "shahar": "Bishopfort",
+      "kocha": "415 Theresa Parkways"
+    }
+  }
+]
